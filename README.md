@@ -1,4 +1,4 @@
-# 🚦 Traffic Light Detector - YOLOv8
+# 🚦 Traffic Light Detector Using YOLOv8
 
 A machine learning project to **detect traffic lights and classify their colors with message** (red, yellow, green, off) using a custom-trained YOLOv8 model.
 
